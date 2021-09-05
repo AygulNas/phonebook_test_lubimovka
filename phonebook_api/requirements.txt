@@ -1,0 +1,8 @@
+requests
+django
+pytest
+pytest-django
+djangorestframework
+djangorestframework-simplejwt
+django-phonenumber-field[phonenumberslite]
+django-filter
